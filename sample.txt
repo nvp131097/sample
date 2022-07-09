@@ -1,1 +1,2 @@
 This is Simple git command.
+this is second line.
